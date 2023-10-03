@@ -1,0 +1,21 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ContaTerminal",
+            "request": "launch",
+            "mainClass": "ContaTerminal",
+            "projectName": "ContaBanco_9706aa43"
+        },{
+            "name": "ContaTerminal",
+            "type": "java",
+            "request": "launch",
+            "mainClass": "ContaTerminal",
+            "args": ["MÁRIO ANDRADE",
+             "067-8", 
+             "1021", 
+             "237.48"]
+        }
+    ]
+}
